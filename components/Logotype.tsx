@@ -8,10 +8,10 @@ export const Logotype: FC<Props> = ({ className, ...rest }) => {
     <div className={cn("text-3xl", className)} {...rest}>
       <span className="font-bold">
         <span className="">[</span>
-        <span className="">dmitrii</span>
+        <span className="">Haekal</span>
         <span className="">]</span>
       </span>{" "}
-      <span className="">selikhov</span>{" "}
+      <span className="">Sutrisna</span>{" "}
       <span className="text-accent font-bold">.</span>
     </div>
   );

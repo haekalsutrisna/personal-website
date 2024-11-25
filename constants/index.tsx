@@ -15,11 +15,11 @@ import {
 import { Social } from "@/types";
 
 export const WEBSITE = {
-  name: "Dmitrii Selikhov",
-  author: "Dmitrii Selikhov",
+  name: "Haekal Sutrisna",
+  author: "Haekal Sutrisna",
   tagline: "CTO, Software Architect, Technical Lead, 3X Founder.",
   description:
-    "CTO, Software Architect, Technical Lead, 3X Founder. Linking companies with top tech talents.",
+    "CTO, Software Engineer, Technical Lead, and Founder. Striving for Excellence",
   keywords: [""],
   about: "",
   color: "#f13024",
@@ -33,13 +33,13 @@ export const SOCIALS: Record<
     name: "Email",
     title: `Email ${WEBSITE.author}`,
     icon: RiMailLine,
-    link: "mailto:dmitrii.selikhov@gmail.com",
+    link: "mailto:haekalsutrisna18@gmail.com",
   },
   [Social.Phone]: {
     name: "Phone",
     title: `Call ${WEBSITE.author}`,
     icon: RiPhoneLine,
-    link: "tel:+18299576440",
+    link: "tel:+6281524577105",
   },
   [Social.Facebook]: {
     name: "Facebook",
@@ -51,7 +51,7 @@ export const SOCIALS: Record<
     name: "Instagram",
     title: `${WEBSITE.author} on Instagram`,
     icon: RiInstagramLine,
-    link: "",
+    link: "https://instagram.com/haekalsutrisna",
   },
   [Social.Twitter]: {
     name: "Twitter",
@@ -87,13 +87,13 @@ export const SOCIALS: Record<
     name: "Calendly",
     title: `Schedule with ${WEBSITE.author} on Calendly`,
     icon: RiCalendarLine,
-    link: "https://calendly.com/dmitry-selikhov",
+    link: "https://calendly.com/haekalsutrisna",
   },
   [Social.GitHub]: {
     name: "GitHub",
     title: `${WEBSITE.author} on GitHub`,
     icon: RiGithubLine,
-    link: "https://github.com/idimetrix",
+    link: "https://github.com/haekalsutrisna",
   },
 };
 

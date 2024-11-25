@@ -47,7 +47,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            Over 15 years of professional experience (including MBA) in both
+            Over 2 years of professional experience in Software Developer in both
             startups and enterprises, I am a technical strategic leader
             specializing in guiding products from initial concept to successful
             launch. I excel in managing teams of up to 100 members, fostering
